@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ReadingEye
+Comment=Reading Eye For The Blind Program
+Icon=gnome-info
+Exec=env GOOGLE_APPLICATION_CREDENTIALS=/home/USERNAME/Reading_Eye_For_The_Blind/orbital-age-263000-4e0e4f853aff.json GCLOUD_PROJECT=orbital-age-263000 python3 /home/USERNAME/Reading_Eye_For_The_Blind/main.py
+Terminal=true
+Type=Application
+Categories=
+
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=0
